@@ -1,10 +1,10 @@
-line {
+.line {
     width: 1000px;
     height: 5px;
     background-color: #0a0b0b;
 }
 
-h2 {
+.h2 {
     color: orange;
     font-family: Arial, Helvetica, sans-serif;
 }
